@@ -1,0 +1,5 @@
+ami_id   = "ami-0a1235697f4afa8a4"
+key_name = "terraform-key"
+instance_type = "t2.micro"
+subnet_id = "subnet-00e510f4c7f35c8b3"
+security_group_id = "sg-09ac89ed08ac5b566"

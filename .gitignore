@@ -13,7 +13,7 @@ override.tf.json
 *_override.tf.json
 
 # Sensitive variable files (optional - if you're using this)
-*.tfvars
+# *.tfvars
 
 # OS files
 .DS_Store

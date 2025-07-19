@@ -6,11 +6,6 @@ pipeline {
     }
 
     stages {
-        stage('Checkout Code') {
-            steps {
-                git 'https://github.com/apurba-nag/terraform-ec2-multi-env.git'
-            }
-        }
 
         stage('Terraform Init') {
             steps {
